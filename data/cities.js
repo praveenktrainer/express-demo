@@ -33,6 +33,14 @@ const cities = {
             "images" : [{
                 "src" : ""
             }]
+        },
+        {
+            "name" : "New York",
+            "description" : "Description for New York",
+            "slug" : "/city/new-york",
+            "images" : [{
+                "src" : ""
+            }]
         }
     ]
 }
